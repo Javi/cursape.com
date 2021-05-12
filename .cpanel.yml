@@ -2,5 +2,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/cursapec/public_html/testARDO
-    - /bin/echo testtest $DEPLOYPATH
+    - /bin/cp otrofile.txt $DEPLOYPATH
 
