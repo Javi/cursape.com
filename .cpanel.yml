@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/cursapec/public_html/.test
+    - export DEPLOYPATH=/home/cursapec/public_html/testARDO
     - /bin/echo testtest $DEPLOYPATH
 
